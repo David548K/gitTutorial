@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Angel/Documents/Documentos/Curso GitGithub/ProyectoEjemplo/build"
+			"value" : "c:/Users/Angel/Documents/Documentos/Curso GitGithub/gitTutorial/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Angel/Documents/Documentos/Curso GitGithub/ProyectoEjemplo/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Angel/Documents/Documentos/Curso GitGithub/gitTutorial/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Angel/Documents/Documentos/Curso GitGithub/ProyectoEjemplo"
+			"value" : "C:/Users/Angel/Documents/Documentos/Curso GitGithub/gitTutorial"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1283,7 +1283,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Angel/Documents/Documentos/Curso GitGithub/ProyectoEjemplo/build"
+			"value" : "C:/Users/Angel/Documents/Documentos/Curso GitGithub/gitTutorial/build"
 		},
 		{
 			"name" : "Learning GIT_IS_TOP_LEVEL",
@@ -1307,7 +1307,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Angel/Documents/Documentos/Curso GitGithub/ProyectoEjemplo"
+			"value" : "C:/Users/Angel/Documents/Documentos/Curso GitGithub/gitTutorial"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
